@@ -1,5 +1,5 @@
 # 86hexapod
-This a 86Duino hexapod project including mechanism, 86ME project files, and 86duino firmware (.ino).
+This is a 86Duino hexapod project including mechanism, 86ME project files, and 86duino firmware (.ino).
 
 The hexapod mechanism designed by UFPATSAI (E-mail: ufpatsai@ms11.hinet.net)
 
