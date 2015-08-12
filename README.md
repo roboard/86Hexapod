@@ -1,4 +1,4 @@
-86hexapod
+86Hexapod
 -----------
 
 This is a 86Duino hexapod project including mechanism, 86ME project files,
