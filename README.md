@@ -1,6 +1,11 @@
 86Hexapod
 -----------
 
+#title
+* abc
+* def
+* ghi
+
 This is a [86Duino](http://www.86duino.com) hexapod project including mechanism, 86ME project files,
  and 86duino firmware (.ino).
 
